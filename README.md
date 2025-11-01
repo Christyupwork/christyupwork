@@ -1,4 +1,15 @@
+# 💫 Hi 👋, I'm Christy Weber! 
+**A passionate Web Developer || Ecommerce/CMS Developer || UX/UI Designer**
 
+Email Me 👉 ✉️ **christyupwork@outlook.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** AI tools into Ecommerce
+- 🌱 **I’m currently learning:** n8n into the ecommerce
+- 👯 **I’m looking to collaborate on:** Ecommerce B2B business stores
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** christyupwork@outlook.com or through upwork at: https://www.upwork.com/freelancers/~01832d7d821728da9a
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+  
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:christyupwork@outlook.com) 
 
